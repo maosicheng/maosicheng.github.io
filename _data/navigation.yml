@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "CV/Bio"
+  - title: "CV"
     url: /files/sicheng_cv.pdf
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Awards & Honors"
   #   url: /awards/

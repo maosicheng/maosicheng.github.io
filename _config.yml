@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Sicheng Mao"
 title_separator          : "-"
-name                     : &name "Bingyu Zhang"
-description              : &description "M.S. in Applied Statistics, Fudan University"
-url                      : https://nbxszby416.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sicheng Mao"
+description              : &description "M.S. in Computational Design & Manufacturing, Carnegie Mellon University"
+url                      : https://maosicheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nbxszby416/nbxszby416.github.io"
+repository               : "maosicheng/maosicheng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bingyu Zhang"
+  name             : "Sicheng Mao"
   avatar           : "bingyu.jpg"
-  bio              : "M.S. in Applied Statistics, Fudan University"
+  bio              : "M.S. in Computational Design & Manufacturing, Carnegie Mellon University"
   location         : "Shanghai"
   employer         : 
   googlescholar    : 
-  email            : "bingyuz77@gmail.com"
+  email            : "sichengm7@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,12 +91,12 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "nbxszby416"
+  github           : "maosicheng"
   google_plus      :
   keybase          :
-  instagram        : "nbxszby416"
+  instagram        : "maosicheng"
   lastfm           :
-  linkedin         : "bingyuzhang"
+  linkedin         : "maosicheng"
   orcid            : 
   pinterest        :
   soundcloud       :

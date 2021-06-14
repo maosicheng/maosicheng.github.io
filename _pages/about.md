@@ -9,18 +9,18 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://maosicheng.github.io/files/bingyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://maosicheng.github.io/files/sichengm_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 # About Me
-* I will be a Ph.D. student in the [Applied Mathematics & Computational Science](https://www.amcs.upenn.edu/) at [University of Pennsylvania](https://www.upenn.edu/), advised by Prof. [Yong Chen](https://penncil.med.upenn.edu/about-pi/) in 2021 Fall. [[Curriculum Vitae](https://nbxszby416.github.io/files/bingyu_cv.pdf)]
-* My research interests mainly focus on statistical and computational methods for integrating evidence from different data sources, statistical genetics, network modeling and machine learning.
-* I am now a M.S. student in [Fudan University](https://www.fudan.edu.cn/en). My graduate thesis advisor is Prof. [Shuqin Zhang](http://math.fudan.edu.cn/ShowPeople.aspx?info_lb=548&flag=526&info_id=3144), and my graduate thesis is *Cell Type Annotation Based on Joint Scoring and Supervised Learning*.
-* I received my Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are Prof. [Mijia Lai](http://math.sjtu.edu.cn/faculty/mlai/) and Prof. [Ling Pi](http://www.math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIfts), and my thesis advisor is Prof. [Dewen Xiong](http://www.math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIhpQ).
+* My research interests mainly focus on robotics and computational engineering.
+* I am now a M.S. student at [Carnegie Mellon University](https://www.cmu.edu/). My graduate research advisor is Prof. [Kenji Shimada](http://www.andrew.cmu.edu/user/shimada/).
+* I received my Bachelor's Degree in Mechanical Engineering from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate thesis advisor is Prof. [Jianfeng Tao](https://me.sjtu.edu.cn/en/FullTimeTeacher/taojianfeng.html), and my undergraduate thesis is *Design of Visual System and Image Processing Algorithms for Spinneret Inspection Robot*.
+* I once studied at [The University of Tokyo](https://www.u-tokyo.ac.jp/) as a USTEP exchange student in my junior year. 
 
-# Awards/Honors
-* **Graduate with Honors**, Fudan University, 2021.
-* **Outstanding Studnet** (Top 10%), Fudan University, 2020.
-* **Graduate with Honors**, Shanghai Jiao Tong University, 2019.
-* **SFI Scholarship** (Top 5%), Shanghai Jiao Tong University, 2017.
-* **Kuang-Hua Scholarship** (Top 5%, Twice), Shanghai Jiao Tong University, 2016 & 2018.
+# Awards
+* **Excellent Capstone Design**, Shanghai Jiao Tong University, 2020.
+* **JASSO Scholarship**, The University of Tokyo, 2019.
+* **Student Academic Ability Improvement Program**, Shanghai Jiao Tong University, 2018.
+* **Academic Progress Scholarship**, Shanghai Jiao Tong University, 2018.
+* **Academic Excellence Scholarship**, Shanghai Jiao Tong University, 2017 & 2018 & 2019.

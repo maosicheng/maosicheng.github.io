@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Bingyu Zhang (张冰宇)"
+title: "Sicheng Mao (毛思诚)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,10 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](https://nbxszby416.github.io/files/bingyu_cv.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](https://maosicheng.github.io/files/sicheng_cv.pdf)
 
 # Education
-* **M.S. in Applied Statistics, 2021, Fudan University**
-* **B.S. in Mathematics and Applied Mathematics, 2019, Shanghai Jiao Tong University**
+* **M.S. in Computational Design & Manufacturing, 2022, Carnegie Mellon University**
+* **B.S. in Mechanical Engineering, 2020, Shanghai Jiao Tong University**
+* **USTEP Exchange Student, 2019, The University of Tokyo**
 
-<!-- <embed src="https://nbxszby416.github.io/files/bingyu_cv.pdf" width="650" height="1800" type='application/pdf'> -->
+<!-- <embed src="https://maosicheng.github.io/files/sicheng.pdf" width="650" height="1800" type='application/pdf'> -->

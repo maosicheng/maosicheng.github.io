@@ -4,6 +4,6 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-School of Mathematics and Sciences, Fudan University<br>
+Department of Mechanical Engineering, Carnegie Mellon University<br>
 
-Email: bingyuz77 [at] gmail.com
+Email: sichengm7 [at] gmail.com

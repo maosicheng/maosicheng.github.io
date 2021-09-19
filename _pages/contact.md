@@ -4,6 +4,5 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Department of Mechanical Engineering, Carnegie Mellon University<br>
-
+Phone: +1 412 880 9886
 Email: sichengm7 [at] gmail.com

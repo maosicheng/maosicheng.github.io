@@ -13,13 +13,11 @@ redirect_from:
 </p>
 
 # About Me
-* My research interests mainly focus on robotics and computational engineering.
 * I am now a M.S. student at [Carnegie Mellon University](https://www.cmu.edu/). My graduate research advisor is Prof. [Kenji Shimada](http://www.andrew.cmu.edu/user/shimada/).
 * I received my Bachelor's Degree in Mechanical Engineering from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate thesis advisor is Prof. [Jianfeng Tao](https://me.sjtu.edu.cn/en/FullTimeTeacher/taojianfeng.html).
-* I once studied at [The University of Tokyo](https://www.u-tokyo.ac.jp/) as a [USTEP](https://www.u-tokyo.ac.jp/en/academics/ustep.html) exchange student in my junior year.
+* I studied at [The University of Tokyo](https://www.u-tokyo.ac.jp/) as a [USTEP](https://www.u-tokyo.ac.jp/en/academics/ustep.html) exchange student in 2019.
 
-# Awards
+<!-- # Awards
 * **Excellent Capstone Design**, Shanghai Jiao Tong University, 2020.
 * **JASSO Scholarship**, The University of Tokyo, 2019.
-* **Student Academic Ability Improvement Program**, Shanghai Jiao Tong University, 2018.
-* **Academic Excellence Scholarship**, Shanghai Jiao Tong University, 2017 & 2018 & 2019.
+* **Academic Excellence Scholarship**, Shanghai Jiao Tong University, 2017 & 2018 & 2019. -->

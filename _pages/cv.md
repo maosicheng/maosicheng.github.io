@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](https://maosicheng.github.io/files/sicheng_cv.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](https://maosicheng.github.io/files/SichengMao20210919.pdf)
 
 # Education
 * **M.S. in Computational Design & Manufacturing, 2022, Carnegie Mellon University**

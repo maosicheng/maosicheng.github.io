@@ -13,9 +13,9 @@ redirect_from:
 </p>
 
 # About Me
-* I am now a M.S. student at [Carnegie Mellon University](https://www.cmu.edu/). My graduate research advisor is Prof. [Kenji Shimada](http://www.andrew.cmu.edu/user/shimada/).
+* I am a M.S. student at [Carnegie Mellon University](https://www.cmu.edu/). I have a double major in [Electrical and Computer Engineering](https://www.ece.cmu.edu/academics/ms-ece/standard-program.html) and [Computational Design and Manufacturing](https://www.meche.engineering.cmu.edu/education/graduate-programs/affiliated-ms-programs.html). My graduate research advisor is Prof. [Kenji Shimada](http://www.andrew.cmu.edu/user/shimada/).
 * I received my Bachelor's Degree in Mechanical Engineering from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate thesis advisor is Prof. [Jianfeng Tao](https://me.sjtu.edu.cn/en/FullTimeTeacher/taojianfeng.html).
-* I studied at [The University of Tokyo](https://www.u-tokyo.ac.jp/) as a [USTEP](https://www.u-tokyo.ac.jp/en/academics/ustep.html) exchange student in 2019.
+* I exchanged at [The University of Tokyo](https://www.u-tokyo.ac.jp/) as a [USTEP](https://www.u-tokyo.ac.jp/en/academics/ustep.html) student in 2019.
 
 <!-- # Awards
 * **Excellent Capstone Design**, Shanghai Jiao Tong University, 2020.
